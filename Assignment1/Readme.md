@@ -41,3 +41,7 @@ Execuatable JAR is downloadable at https://github.com/xilwen/FXGrayDither/releas
 * Dithering techniques
 * "release" feature in GitHub
 * Markdown All in One extension of Visual Studio Code for offline markdown preview
+
+# Teacher's Comments
+* Excellent work and excellent report.
+* The report shows that you have good potential in doing good research. 
